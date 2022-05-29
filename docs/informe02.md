@@ -1,4 +1,4 @@
-# Indice de correção monetária do FGTS e a atuação do SINDPDRJ - Texto para verificação do comitê
+# Indice de correção monetária do FGTS e a atuação do SINDPDRJ
 
 O Fundo de Garantia do Tempo de Serviço, FGTS, foi criado durante a ditadura para reduzir os custos dos empregadores com rescisões, ele substituiu a regra de estabilidade decenal, prevista na Consolidação das leis do Trabalho. A estabilidade decenal definia que funcionários com mais de 10 anos de trabalho só poderiam ser demitidos por justa causa e funcionários demitidos antes dos 10 anos receberiam uma indenização equivalente a um salário de mês por ano trabalhado.
 
