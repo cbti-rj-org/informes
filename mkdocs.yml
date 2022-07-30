@@ -1,0 +1,30 @@
+site_name: UCTIRJ - Informes
+
+nav:
+    - Home: 'index.md'
+    - Indice de correção monetária do FGTS e a atuação do SINDPDRJ: 'informe02.md'
+    - 1º de maio e os profissionais de TI: 'informe01.md'
+    
+    
+theme:
+  name: material #para usar esse tema é preciso instalar o mkdocs-material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  language: pt-br
+  palette:
+    - scheme: default
+      primary: red
+      toggle:        
+        icon: material/weather-night
+        name: Modo noturno
+    - scheme: slate 
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+markdown_extensions: #para usar esse tema é preciso instalar o pymdown-extensions
+  - pymdownx.tasklist #extende a opção de lista de tarefas
+  - pymdownx.mark #extende a opção de marcação
+  - pymdownx.tilde #extende a opção de tachado
+  - pymdownx.superfences #extende a opção de mostrar código
